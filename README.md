@@ -2,7 +2,6 @@
 
 ###
 
-<p align="left">I'm MERN Stack Developer</p>
 
 ###
 
